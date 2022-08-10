@@ -1,4 +1,2 @@
 <?php include 'header.php'; ?>
-</body>
-
-</html>git
+<?php include 'footer.php'; ?>
